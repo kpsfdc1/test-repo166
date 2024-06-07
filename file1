@@ -1,7 +1,7 @@
-class file1
+class file1	#from dev1file1
 {
-	public static void main()
+	public static void main()	#from dev1file1
 	{
-		system.out.println("hello");
+		system.out.println("hello from dev1file1");
 	}
 }
